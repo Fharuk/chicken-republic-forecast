@@ -1,7 +1,7 @@
-echo "streamlit
+streamlit
 pandas
 numpy
 matplotlib
 scikit-learn
 lightgbm
-openpyxl" > requirements.txt
+openpyxl
